@@ -13,6 +13,9 @@ Model Customization: I could fine-tuning a transformer model for sentiment analy
 Dataset source
 https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews?select=test.csv
 
+Research Paper
+https://ddkang.github.io/papers/2020/supg-paper.pdf
+
 
 Importance Sampling
 Uniform Sampling
